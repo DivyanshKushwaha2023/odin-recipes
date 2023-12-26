@@ -1,0 +1,22 @@
+body {
+    background-color: antiquewhite;
+    font-size: 24px;
+}
+
+#heading {
+   font-size: 36px; 
+   font-family: 'Courier New', Courier, monospace;
+   font-weight: bolder;
+   color: rgb(86, 107, 200);
+}
+
+h2 {
+    color: rgb(245, 143, 27);
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+}
+#link {
+    text-decoration: none;
+    color: rgb(242, 15, 15);
+}
