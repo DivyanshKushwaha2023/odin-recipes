@@ -23,3 +23,9 @@ h2 {
     text-decoration: none;
     color: rgb(242, 15, 15);
 }
+
+#img {
+    display: block;
+    width: fit-content;
+    margin: auto;
+}
