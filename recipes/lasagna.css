@@ -10,6 +10,9 @@ body {
     color: rgb(248, 3, 146);
     font-family: 'Courier New', Courier, monospace;
     font-weight: bolder;
+    width: fit-content;
+    margin: auto;
+    text-decoration-line: underline;
 }
 
 h2 {
@@ -25,4 +28,9 @@ h2 {
     
 }
 
+#img {
+    display: block;
+    width: fit-content;
+    margin: auto;
+}
 
